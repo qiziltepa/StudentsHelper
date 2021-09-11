@@ -1,0 +1,22 @@
+
+
+
+
+.footer{
+    background-color: #3c8dbc;
+    width: 100%;
+    padding: 20px;
+}
+.footer a{
+    text-decoration: none;
+    color: white;
+}
+.footer_contact{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.footer_contact span{
+    color: black;
+    margin-right: 10px;
+}
